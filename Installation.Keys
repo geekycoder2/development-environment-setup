@@ -1,0 +1,8 @@
+1. Below mentioned link for Visual Code(VS)
+https://code.visualstudio.com/download for (vs code)
+2.Below mentioned link for NodeJs 
+https://nodejs.org/en/
+3.Write below mentioned command on terminal for typescript installation
+ npm i -g typescript 
+4.Below mentioned command  for tsconfig.json file
+ tsc -- init  for (tsconfig.json)
